@@ -89,14 +89,4 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jakkasanthosh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<!-- Backup if streak fails -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Consistent%20Commits-100%2B-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Daily%20Streak%20Challenge-In%20Progress-blue?style=for-the-badge&logo=clockify" />
-</p>
