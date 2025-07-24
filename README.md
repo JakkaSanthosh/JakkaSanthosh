@@ -5,7 +5,6 @@
 
 <h3 align="center">💡 Turning logic into code and problems into possibilities — a curious mind from India, passionate about Data Structures and Algorithms.</h3>
 
-
 ---
 
 ### 🌟 About Me
@@ -22,17 +21,23 @@
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Projects
 
 ### 🔁 LRU Cache Visualizer  
-[![Open LRU Cache App](https://img.shields.io/badge/LRU--Cache-Live-blue?style=for-the-badge)](http://lru-cache-kvr.streamlit.app)
+📌 A fully interactive tool that demonstrates the internal working of an LRU (Least Recently Used) Cache using a doubly linked list and hashmap.  
+🔗 [Live Demo](http://lru-cache-kvr.streamlit.app) | 📂 Tech: Python, Streamlit, Data Structures
+
+---
 
 ### 📊 Median Finder  
-[![Open Median Finder](https://img.shields.io/badge/Median--Finder-Live-green?style=for-the-badge)](http://medianfinder-kvr.streamlit.app)
+📌 A real-time Median Finder visualizer that maintains the median of a data stream using two heaps (min-heap and max-heap).  
+🔗 [Live Demo](http://medianfinder-kvr.streamlit.app) | 📂 Tech: Python, Streamlit, Heap DS
+
+---
 
 ### 🔢 Sudoku Solver Visualizer  
-[![Open Sudoku Solver](https://img.shields.io/badge/Sudoku--Solver-Live-yellow?style=for-the-badge)](https://sudoku-solver-santhosh.streamlit.app)  
-Interactive tool that visually demonstrates solving Sudoku using backtracking and constraint propagation.
+📌 A backtracking-based Sudoku solver that provides step-by-step visual feedback as the board is being solved. Great for learning constraint propagation and recursion.  
+🔗 [Live Demo](https://sudoku-solver-santhosh.streamlit.app) | 📂 Tech: Python, Streamlit, Recursion
 
 ---
 
@@ -52,7 +57,7 @@ Interactive tool that visually demonstrates solving Sudoku using backtracking an
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/jakka%20santhosh" target="_blank">
+  <a href="https://www.linkedin.com/in/jakka-santhosh" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://leetcode.com/santhosh_1409" target="_blank">
@@ -88,4 +93,10 @@ Interactive tool that visually demonstrates solving Sudoku using backtracking an
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jakkasanthosh&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<!-- Backup if streak fails -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Consistent%20Commits-100%2B-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Daily%20Streak%20Challenge-In%20Progress-blue?style=for-the-badge&logo=clockify" />
 </p>
