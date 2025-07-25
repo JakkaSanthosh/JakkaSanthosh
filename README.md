@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=300&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Santhosh+Jakka;Java+%7C+DSA+%7C+Problem+Solver;Welcome+to+my+GitHub+Journey!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💡 Turning logic into code and problems into possibilities — a curious mind from India, passionate about Data Structures and Algorithms.</h3>
+<h3 align="center">💡 Turning logic into code and problems into possibilities — a curious mind, passionate about Data Structures and Algorithms.</h3>
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🔁 LRU Cache Visualizer  
 📌 A fully interactive tool that demonstrates the internal working of an LRU (Least Recently Used) Cache using a doubly linked list and hashmap.  
-🔗 [Live Demo](http://lru-cache-kvr.streamlit.app) | 📂 Tech: Python, Streamlit, Data Structures
+🔗 [Live Demo](https://jsanthosh-lru.streamlit.app/) | 📂 Tech: Python, Streamlit, Data Structures
 
 ---
 
