@@ -37,7 +37,6 @@
 
 ### 🔢 Sudoku Solver Visualizer  
 📌 A backtracking-based Sudoku solver that provides step-by-step visual feedback as the board is being solved. Great for learning constraint propagation and recursion.  
-🔗 [Live Demo](https://sudoku-solver-santhosh.streamlit.app) | 📂 Tech: Python, Streamlit, Recursion
 
 ---
 
