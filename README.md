@@ -31,7 +31,7 @@
 
 ### 📊 Median Finder  
 📌 A real-time Median Finder visualizer that maintains the median of a data stream using two heaps (min-heap and max-heap).  
-🔗 [Live Demo](http://medianfinder-kvr.streamlit.app) | 📂 Tech: Python, Streamlit, Heap DS
+🔗 [Live Demo](https://jsanthosh-realtimemedian.streamlit.app/) | 📂 Tech: Python, Streamlit, Heap DS
 
 ---
 
